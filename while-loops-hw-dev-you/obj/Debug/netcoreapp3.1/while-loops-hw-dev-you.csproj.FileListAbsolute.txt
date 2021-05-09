@@ -1,0 +1,12 @@
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/bin/Debug/netcoreapp3.1/while-loops-hw-dev-you.deps.json
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/bin/Debug/netcoreapp3.1/while-loops-hw-dev-you.runtimeconfig.json
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/bin/Debug/netcoreapp3.1/while-loops-hw-dev-you.runtimeconfig.dev.json
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/bin/Debug/netcoreapp3.1/while-loops-hw-dev-you.dll
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/bin/Debug/netcoreapp3.1/while-loops-hw-dev-you.pdb
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.csprojAssemblyReference.cache
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.AssemblyInfoInputs.cache
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.AssemblyInfo.cs
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.dll
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.pdb
+/Users/Eli/Projects/while-loops-hw-dev-you/while-loops-hw-dev-you/obj/Debug/netcoreapp3.1/while-loops-hw-dev-you.genruntimeconfig.cache
